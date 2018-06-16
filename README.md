@@ -1,2 +1,2 @@
 myApp
-This is my app
+Hey, this is my app
